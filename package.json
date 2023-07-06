@@ -1,0 +1,23 @@
+{
+  "name": "basic_animation",
+  "version": "1.0.0",
+  "description": "trying out HTML and JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tailwindcss -i ./src/style.css -o ./dist/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinbengeorge/basic_animation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvinbengeorge/basic_animation/issues"
+  },
+  "homepage": "https://github.com/alvinbengeorge/basic_animation#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
